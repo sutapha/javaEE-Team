@@ -8,5 +8,7 @@ public class GestionEvenementsEnsaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GestionEvenementsEnsaApplication.class, args);
+		
+		System.out.println("test update");
 	}
 }
